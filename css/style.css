@@ -92,17 +92,18 @@ color: var(--iris);
         letter-spacing: 0.02em;
         color: var(--navy-blue);
 }
-.team-title,
-.company-text{
-    letter-spacing: 0.02em;
-}
+
 .team-title,
 .work-title{
         font-size: 36px;
         font-weight: 700;
+        line-height: 1.11;
         color: var(--navy-blue);
         text-align: center;
         text-transform: capitalize;
+}
+.company-text {
+    letter-spacing: 0.02em;
 }
 .team-list-item{
     background-color: #ffffff;
@@ -142,6 +143,7 @@ font-weight: 500;
 }
 .footer-text{
     color: var(--cloud);
+    letter-spacing: 0.02em;
 }
 .footer-logo-link{
     font-family: Raleway, sans-serif;
