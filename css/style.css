@@ -117,8 +117,7 @@ color: var(--iris);
 /* portfolio */
 .portfolio-btn{
     font-family: "Roboto", sans-serif;
-    font-style: 16px;
-    line-height: 1.5;
+    font-size: 16px;
     letter-spacing: 0.04em;
 background-color: var(--cloud);
 color: var(--iris);
@@ -132,9 +131,6 @@ font-weight: 500;
     font-weight: 500;
     color: var(--navy-blue);
 
-}
-.portfolio-link{
-    
 }
 .project-title{
     font-size: 20px;
