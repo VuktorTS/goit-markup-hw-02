@@ -119,9 +119,10 @@ color: var(--iris);
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     letter-spacing: 0.04em;
-background-color: var(--cloud);
-color: var(--iris);
-font-weight: 500;
+    line-height: 1.5;
+    background-color: var(--cloud);
+    color: var(--iris);
+    font-weight: 500;
 
 }
 .portfolio-btn:hover,
@@ -129,7 +130,6 @@ font-weight: 500;
     background-color: var(--ocean);
     color: #ffffff;
     font-weight: 500;
-    color: var(--navy-blue);
 
 }
 .project-title{
@@ -140,6 +140,7 @@ font-weight: 500;
 }
 .project-text{
     color: var(--slate);
+    letter-spacing: 0.02em;
 }
 .section-solution,
 .footer {
