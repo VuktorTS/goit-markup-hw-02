@@ -62,13 +62,17 @@ color: var(--iris);
 .solution-title{
     font-size: 56px;
         font-weight: 700;
-        line-height: 1.05;
+        line-height: 1.07;
         letter-spacing: 1.12px;
         text-align: center;
         color: #FFFFFF;
 }
 .solution-btn{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
     background-color: var(--iris);
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     font-weight: 500;
     color: white;
 }
