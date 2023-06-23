@@ -33,7 +33,7 @@ font-weight: 800;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-letter-spacing: 0.54px;
+letter-spacing: 0.02em;
 color: var(--iris);
 }
 .logo-decoration {
@@ -48,8 +48,12 @@ color: var(--iris);
 .menu-link:focus {
     color: var(--ocean);
 }
+.address{
+    font-style: normal;
+}
 .addres-link{
     color: var(--slate);
+    letter-spacing: 0.02em;
 }
 .addres-link:hover,
 .addres-link:focus {
